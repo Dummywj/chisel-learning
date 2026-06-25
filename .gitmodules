@@ -1,0 +1,9 @@
+[submodule "diplomacy-demo"]
+	path = diplomacy-demo
+	url = https://github.com/Dummywj/diplomacy-demo.git
+[submodule "mill-template"]
+	path = mill-template
+	url = https://github.com/Dummywj/mill-template.git
+[submodule "scala-book"]
+	path = scala-book
+	url = https://github.com/Dummywj/scala-book.git
